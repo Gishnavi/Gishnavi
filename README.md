@@ -1,32 +1,32 @@
-<!-- Tip: replace every `gishnavikolli` below if your GitHub username differs (e.g. Gishnavi). -->
+<!-- Tip: replace every `Gishnavi` below if your GitHub username differs (e.g. Gishnavi). -->
 <h1 align="center">Hi 👋, I'm Gishnavi Kolli</h1>
 <h3 align="center">Full-Stack Developer · Interfaces · Reliable systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gishnavikolli&label=Profile%20views&color=10b981&style=flat" alt="gishnavikolli" />
+  <img src="https://komarev.com/ghpvc/?username=Gishnavi&label=Profile%20views&color=10b981&style=flat" alt="Gishnavi" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on [**this portfolio**](https://github.com/gishnavikolli/gishnavi-profile) — static site with dark/light theme & smooth motion
+- 🔭 I’m currently working on [**this portfolio**](https://github.com/Gishnavi/gishnavi-profile) — static site with dark/light theme & smooth motion
 
 - 🌱 I’m currently learning **TypeScript**, **system design**, and sharper **UX craft**
 
-- 👨‍💻 All of my projects are available [**here**](https://github.com/gishnavikolli?tab=repositories)
+- 👨‍💻 All of my projects are available [**here**](https://github.com/Gishnavi?tab=repositories)
 
 - 💬 Ask me about **JavaScript, web apps, APIs, Git & CI**
 
 - 📫 How to reach me: **your.email@example.com** *(edit this line in `README.md`)*
 
-- 📄 Connect professionally on [**LinkedIn**](https://www.linkedin.com/in/gishnavikolli/) *(update the link if yours is different)*
+- 📄 Connect professionally on [**LinkedIn**](https://www.linkedin.com/in/Gishnavi/) *(update the link if yours is different)*
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://github.com/gishnavikolli" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="gishnavikolli" height="30" width="40" />
+  <a href="https://github.com/Gishnavi" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Gishnavi" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/gishnavikolli/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gishnavikolli" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/Gishnavi/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gishnavi" height="30" width="40" />
   </a>
 </p>
 
@@ -43,15 +43,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gishnavikolli&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gishnavi&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gishnavikolli&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gishnavi&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gishnavikolli&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gishnavi&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
