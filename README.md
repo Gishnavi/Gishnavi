@@ -1,3 +1,4 @@
+<!-- Tip: replace every `gishnavikolli` below if your GitHub username differs (e.g. Gishnavi). -->
 <h1 align="center">Hi 👋, I'm Gishnavi Kolli</h1>
 <h3 align="center">Full-Stack Developer · Interfaces · Reliable systems</h3>
 
