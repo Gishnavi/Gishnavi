@@ -12,15 +12,15 @@
 
 - **Projects** — Browse everything [on my GitHub](https://github.com/Gishnavi?tab=repositories).
 - **Ask me about** — JavaScript, web apps, APIs, DevOps, SRE, Git & CI.
-- **Email** — [your.email@example.com](mailto:your.email@example.com) *(replace in `README.md`)*.
-- **LinkedIn** — [Connect on LinkedIn](https://www.linkedin.com/in/Gishnavi/) *(update the URL if yours differs)*.
+- **Email** — [gishnavik13@gmail.com](mailto:gishnavik13@gmail.com).
+- **LinkedIn** — [Connect on LinkedIn](https://www.linkedin.com/in/gkollireddy/).
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://github.com/Gishnavi" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Gishnavi" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/Gishnavi/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/gkollireddy/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gishnavi" height="30" width="40" />
   </a>
 </p>
