@@ -43,6 +43,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gishnavi&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <sub>Portfolio in this repo: open <code>index.html</code> locally or deploy with <a href="https://pages.github.com/">GitHub Pages</a>.</sub>
-</p>
