@@ -8,17 +8,12 @@
 
 ---
 
-- 🔭 I’m currently working on [**this portfolio**](https://github.com/Gishnavi/gishnavi-profile) — static site with dark/light theme & smooth motion
+<h3 align="left">About</h3>
 
-- 🌱 I’m currently learning **TypeScript**, **system design**, and sharper **UX craft**
-
-- 👨‍💻 All of my projects are available [**here**](https://github.com/Gishnavi?tab=repositories)
-
-- 💬 Ask me about **JavaScript, web apps, APIs, Git & CI**
-
-- 📫 How to reach me: **your.email@example.com** *(edit this line in `README.md`)*
-
-- 📄 Connect professionally on [**LinkedIn**](https://www.linkedin.com/in/Gishnavi/) *(update the link if yours is different)*
+- **Projects** — Browse everything [on my GitHub](https://github.com/Gishnavi?tab=repositories).
+- **Ask me about** — JavaScript, web apps, APIs, Git & CI.
+- **Email** — [your.email@example.com](mailto:your.email@example.com) *(replace in `README.md`)*.
+- **LinkedIn** — [Connect on LinkedIn](https://www.linkedin.com/in/Gishnavi/) *(update the URL if yours differs)*.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
