@@ -1,6 +1,6 @@
 <!-- Tip: replace every `Gishnavi` below if your GitHub username differs (e.g. Gishnavi). -->
 <h1 align="center">Hi 👋, I'm Gishnavi Kolli</h1>
-<h3 align="center">Full Stack Java Developer · AI</h3>
+<h3 align="center">Full Stack Developer · DevOps · SRE · Applied AI &amp; LLMs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gishnavi&label=Profile%20views&color=10b981&style=flat" alt="Gishnavi" />
